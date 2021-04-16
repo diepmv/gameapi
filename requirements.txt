@@ -11,7 +11,7 @@ configparser==3.5.0
 decorator==4.1.2
 dj-database-url==0.4.2
 Django==1.11.6
-django-debug-toolbar==1.8
+django-debug-toolbar==1.11.1
 djangorestframework==3.7.3
 docutils==0.6
 ecdsa==0.13
